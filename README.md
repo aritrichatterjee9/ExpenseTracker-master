@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Deployed in https://expense-tracker-master-ashen.vercel.app/ 
+![image](https://github.com/aritrichatterjee9/ExpenseTracker-master/assets/73156770/b9fbd507-04fd-4fe1-836f-e0f4a0c8bfad)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
